@@ -10,6 +10,6 @@ I still need to learn how to code in:
   - Rust
   - Javascript
 
-I'm also a web design enthusiast.
+I also really, really like web design.
 
 👋
