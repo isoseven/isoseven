@@ -7,3 +7,5 @@ Current projects:
 - **arbitra**: A Geometry Dash mod aimed at changing fundamental physics of the game
 - **skylark**: A Discord bot aimed at Hypixel Skyblock data caches and utilities.
 - **schae.dev**: My website! Still very unfinished though.
+
+I usually work in **Python** and **Java**, but I've been learning C++ and Lua.
