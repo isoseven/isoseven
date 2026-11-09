@@ -3,9 +3,10 @@ Hello! :wave:
 Most of my repositories are private, but most of my more notable works will be available here.
 
 Current projects:
-- Constantly editing my Nix config 😅
-- **arbitra**: A Geometry Dash mod aimed at changing fundamental physics of the game
+- **chordal**: An app written in Rust for managing chord charts with multiple instruments
+- **arbitra**: A Geometry Dash mod aimed at fixing sync issues in the base game
 - **skylark**: A Discord bot aimed at Hypixel Skyblock data caches and utilities.
 - **schae.dev**: My website! Still very unfinished though.
+- Constantly editing my Nix config 😅
 
-I usually work in **Python** and **Java**, but I've been learning C++ and Lua.
+I usually work in **Python** and **Java**, but I've been learning C++, Rust, and Lua on my own time.
